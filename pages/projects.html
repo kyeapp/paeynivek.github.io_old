@@ -1,8 +1,14 @@
 ---
-layout: single
+layout: archive
 title: "Projects"
 excerpt: "Projects"
 permalink: /projects/
 header:
   image: /assets/images/mandelbrot-spire.jpg
 ---
+
+<hr>
+{% for post in site.categories.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
