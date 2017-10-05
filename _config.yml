@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "paeynivek.github.io"
 title_separator          : "-"
 name                     : "Kevin Yeap"
-description              : "An amazing website."
+description              : "Kevin's Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Kevin Yeap"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "California"
+  bio              : "Technophile, PC Gamer, Avid boba consumer, EV owner, Fan of functional 3d-printing"
+  location         : "I live on Slickdeals"
   email            : "paeynivek@gmail.com"
   uri              :
   bitbucket        :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : "paeynivek"
   foursquare       :
-  github           : "www.github.com/paeynivek"
+  github           : "paeynivek"
   gitlab           :
   google_plus      :
   keybase          :
