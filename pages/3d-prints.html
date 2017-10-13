@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "3D Prints"
 excerpt: "3d-prints"
 permalink: /3d-prints/
@@ -8,6 +8,9 @@ header:
 ---
 
 <hr>
-{% for post in site.categories.prints %}	
-  {% include archive-single.html %}
-{% endfor %}
+
+<ul class="photo-gallery">
+  {% for image in site.gallery %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}" height="200" width="200"/></li>
+  {% endfor %}
+</ul>
