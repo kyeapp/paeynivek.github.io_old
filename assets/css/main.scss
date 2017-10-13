@@ -6,3 +6,17 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.gallery-image {
+	border: #FFFFFF 2px solid;
+	float: left;
+	margin: 5px 5px;
+	height: 250px;
+	width: auto;
+	overflow: hidden;
+}
+
+.gallery-image img {
+	height: 246px;
+	width: auto;
+}

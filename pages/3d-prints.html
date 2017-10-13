@@ -12,6 +12,8 @@ header:
 <div class="print-gallery">
 	{% assign prints = site.gallery | sort: 'date' | reverse %}
   {% for image in prints %}
-    <img src="{{ image.image_path }}" alt="{{ image.title}}" height="200" width="200"/>
+		<div class="gallery-image">
+    	<img src="{{ image.image_path }}" alt="{{ image.title }}">
+		</div>
   {% endfor %}
 </div>
