@@ -1,13 +1,10 @@
-make the banner consistent across all pages.
 make the banner a constant size 
 hackerrank icon link in the bio section
-thinner navigation menu
 remove the follow section in the footer
 make the posts show up as a picture with some text to the right.
 how post date when listing posts
-bigger profile pic
 remove categories at the bottom of a post
-come up with a template for blog posts
 investigate a better font
 pagniate posts
+favico
 
