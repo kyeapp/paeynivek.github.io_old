@@ -1,6 +1,6 @@
 ---
-image_path: /assets/images/prints/knob-extender.jpg
+image_path: /assets/images/prints/thumbnails/knob-extender.jpg
 title:  "knob-extender"
-date:   2017-10-13 15:37:47 -0700
+date:   2017-10-16 01:33:14 -0700
 ---
 

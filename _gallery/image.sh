@@ -13,7 +13,7 @@ fi
 
 cat > $FILE << EOF
 ---
-image_path: /assets/images/prints/$NAME.jpg
+image_path: /assets/images/prints/thumbnails/$NAME.jpg
 title:  "$NAME"
 date:   $POSTDATE
 ---

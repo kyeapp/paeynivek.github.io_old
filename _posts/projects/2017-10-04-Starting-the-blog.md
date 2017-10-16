@@ -9,4 +9,4 @@ categories: projects
 
 Screenshot of blog
 <br>
-<img style="border:5px solid black;" src="/assets/images/projects/blog1.jpg" alt="[blog screenshot]"> 
+<img style="border:5px solid black;" src="/assets/images/projects/thumbnails/blog1.jpg" alt="[blog screenshot]"> 
