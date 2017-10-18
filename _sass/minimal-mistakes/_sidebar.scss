@@ -54,6 +54,7 @@
   img {
     width: 100%;
   }
+  overflow: hidden;
 }
 
 .sidebar__right {
@@ -255,9 +256,10 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    transistion: all .1s linear;
 
     &:hover {
-      text-decoration: underline;
+      transform: scale(1.20) translate(12px, 0px);
     }
   }
 }
