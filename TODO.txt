@@ -1,5 +1,4 @@
 make the banner a constant size 
-hackerrank icon link in the bio section
 remove the follow section in the footer
 make the posts show up as a picture with some text to the right.
 how post date when listing posts

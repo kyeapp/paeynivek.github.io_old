@@ -7,7 +7,10 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% else %}
-  <img src="/assets/images/mandelbrot-spire.jpg" alt="header">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/assets/images/mandelbrot-spire-mobile.jpg">
+    <img src="/assets/images/mandelbrot-spire.jpg" alt="header image">
+  </picture> 
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
